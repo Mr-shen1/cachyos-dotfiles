@@ -1,0 +1,89 @@
+[appindicator]
+icon-brightness=0.0
+icon-contrast=0.0
+icon-opacity=240
+icon-saturation=0.0
+icon-size=0
+tray-pos='right'
+
+[blur-my-shell]
+rounded-blur-found=false
+settings-version=2
+
+[blur-my-shell/appfolder]
+brightness=0.59999999999999998
+sigma=30
+
+[blur-my-shell/applications]
+pipeline='pipeline_default'
+
+[blur-my-shell/coverflow-alt-tab]
+pipeline='pipeline_default'
+
+[blur-my-shell/dash-to-dock]
+blur=false
+brightness=0.59999999999999998
+pipeline='pipeline_default_rounded'
+sigma=30
+static-blur=true
+style-dash-to-dock=0
+
+[blur-my-shell/lockscreen]
+pipeline='pipeline_default'
+
+[blur-my-shell/overview]
+pipeline='pipeline_default'
+
+[blur-my-shell/panel]
+brightness=0.59999999999999998
+corner-radius=0
+pipeline='pipeline_default'
+sigma=30
+
+[blur-my-shell/popup]
+blur=false
+pipeline='pipeline_default_rounded'
+
+[blur-my-shell/screenshot]
+pipeline='pipeline_default'
+
+[blur-my-shell/window-list]
+brightness=0.59999999999999998
+sigma=30
+
+[dash-to-dock]
+background-opacity=0.80000000000000004
+dash-max-icon-size=48
+dock-position='BOTTOM'
+height-fraction=0.90000000000000002
+preferred-monitor=-2
+preferred-monitor-by-connector='eDP-1'
+transparency-mode='DYNAMIC'
+
+[status-tray]
+app-order=['Cachy-Update', 'ChatGPT', 'nW5DM4MhJH']
+icon-padding=2
+icon-size=16
+panel-position='right'
+
+[user-theme]
+name='WhiteSur-Dark'
+
+[vitals]
+battery-colors=@as []
+fan-colors=@as []
+fixed-widths=false
+gpu-colors=@as []
+hide-icons=false
+hide-zeros=false
+hot-sensors=['_memory_usage_', '__network-rx_max__']
+memory-colors=@as []
+processor-colors=@as []
+show-fan=false
+show-storage=false
+show-system=false
+show-voltage=false
+system-colors=@as []
+temperature-colors=@as []
+update-time=1
+use-higher-precision=false

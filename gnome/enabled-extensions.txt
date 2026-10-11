@@ -1,0 +1,6 @@
+dash-to-dock@micxgx.gmail.com
+Vitals@CoreCoding.com
+blur-my-shell@aunetx
+user-theme@gnome-shell-extensions.gcampax.github.com
+status-tray@keithvassallo.com
+kimpanel@kde.org
